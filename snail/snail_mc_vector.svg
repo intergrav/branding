@@ -1,0 +1,66 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_19)">
+<path d="M0 0V8H8V0H0Z" fill="#DA8715"/>
+<path d="M8 0V8H16V0H8Z" fill="#DB8A1A"/>
+<path d="M16 0V8H24V0H16Z" fill="#D98A1D"/>
+<path d="M24 0V8H32V0H24Z" fill="#DA891E"/>
+<path d="M32 0V8H40V0H32Z" fill="#D8881E"/>
+<path d="M40 0V8H48V0H40Z" fill="#D8871D"/>
+<path d="M48 0V8H56V0H48Z" fill="#D6841A"/>
+<path d="M56 0V8H64V0H56Z" fill="#D48115"/>
+<path d="M0 8V16H8V8H0Z" fill="#DB8813"/>
+<path d="M8 8V16H16V24H24V16H16V8H8Z" fill="#DB8919"/>
+<path d="M16 8V16H24V24H32V16H24V8H16Z" fill="#DB8B1C"/>
+<path d="M24 8V16H40V8H24Z" fill="#DA8A1E"/>
+<path d="M40 8V16H48V8H40Z" fill="#D8871C"/>
+<path d="M48 8V16H56V8H48Z" fill="#D78619"/>
+<path d="M56 8V16H64V8H56Z" fill="#D58113"/>
+<path d="M0 16V24H8V16H0Z" fill="#DB860F"/>
+<path d="M8 16V24H16V16H8Z" fill="#DC8915"/>
+<path d="M32 16V24H40V16H32Z" fill="#D9891C"/>
+<path d="M40 16V24H48V16H40Z" fill="#D98719"/>
+<path d="M48 16V24H56V16H48Z" fill="#D68415"/>
+<path d="M56 16V24H64V16H56Z" fill="#D57F0F"/>
+<path d="M0 24V32H8V24H0Z" fill="#DC8408"/>
+<path d="M8 24V40H16V24H8Z" fill="black"/>
+<path d="M16 24V32H24V24H16Z" fill="#DC8914"/>
+<path d="M24 24V32H40V24H24Z" fill="#DA8918"/>
+<path d="M40 24V32H48V24H40Z" fill="#D98514"/>
+<path d="M48 24V40H56V24H48Z" fill="black"/>
+<path d="M56 24V32H64V24H56Z" fill="#D57D08"/>
+<path d="M0 32V40H8V32H0Z" fill="#DA8000"/>
+<path d="M16 32V40H24V32H16Z" fill="#DA840B"/>
+<path d="M24 32V40H32V32H24Z" fill="#DB8710"/>
+<path d="M32 32V40H40V32H32Z" fill="#D98510"/>
+<path d="M40 32V40H48V32H40Z" fill="#D8820B"/>
+<path d="M56 32V40H64V32H56Z" fill="#D47900"/>
+<path d="M0 40V48H8V40H0Z" fill="#D27C00"/>
+<path d="M8 40V48H16V40H8Z" fill="#D57E00"/>
+<path d="M16 40V48H24V40H16Z" fill="#DB8100"/>
+<path d="M24 40V48H32V40H24Z" fill="#D98204"/>
+<path d="M32 40V48H40V40H32Z" fill="#D98104"/>
+<path d="M40 40V48H48V40H40Z" fill="#D77D00"/>
+<path d="M48 40V48H56V40H48Z" fill="#D17A00"/>
+<path d="M56 40V48H64V40H56Z" fill="#CB7500"/>
+<path d="M0 48V56H8V48H0Z" fill="#C87700"/>
+<path d="M8 48V56H16V48H8Z" fill="#CB7900"/>
+<path d="M16 48V56H24V48H16Z" fill="#CF7900"/>
+<path d="M24 48V56H32V48H24Z" fill="#D07B00"/>
+<path d="M32 48V56H40V48H32Z" fill="#CF7900"/>
+<path d="M40 48V56H48V48H40Z" fill="#CD7800"/>
+<path d="M48 48V56H56V48H48Z" fill="#C77300"/>
+<path d="M56 48V56H64V48H56Z" fill="#C27100"/>
+<path d="M0 56V64H8V56H0Z" fill="#BF7200"/>
+<path d="M8 56V64H16V56H8Z" fill="#C37400"/>
+<path d="M16 56V64H32V56H16Z" fill="#C57500"/>
+<path d="M32 56V64H40V56H32Z" fill="#C57400"/>
+<path d="M40 56V64H48V56H40Z" fill="#C27200"/>
+<path d="M48 56V64H56V56H48Z" fill="#BF7000"/>
+<path d="M56 56V64H64V56H56Z" fill="#B96B00"/>
+</g>
+<defs>
+<clipPath id="clip0_5_19">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
