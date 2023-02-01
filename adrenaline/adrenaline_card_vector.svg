@@ -4,10 +4,10 @@
 <circle cx="44" cy="8.63158" r="7" fill="#45FF79"/>
 <circle cx="17" cy="13.6316" r="6" fill="#FFD18B"/>
 <g clip-path="url(#clip0_1_25)">
-<rect x="48.5947" y="8.5783" width="3" height="7" rx="1.5" transform="rotate(15 48.5947 8.5783)" fill="white" fill-opacity="0.3" stroke="black"/>
-<path d="M48.5854 16.3404L48.7149 15.8574L47.7489 15.5986L47.6195 16.0816L48.5854 16.3404ZM47.1019 18.0134C47.0304 18.2801 47.1887 18.5543 47.4554 18.6258C47.7222 18.6973 47.9963 18.539 48.0678 18.2722L47.1019 18.0134ZM47.6195 16.0816L47.1019 18.0134L48.0678 18.2722L48.5854 16.3404L47.6195 16.0816Z" fill="black"/>
-<path d="M50.4319 7.51764L50.173 8.48356" stroke="black" stroke-linecap="square"/>
-<path d="M52.3637 8.03528L48.5 7" stroke="black" stroke-linecap="round"/>
+<rect x="48.5505" y="8.50175" width="3.125" height="7.125" rx="1.5625" transform="rotate(15 48.5505 8.50175)" fill="white" fill-opacity="0.3" stroke="black" stroke-width="1.125"/>
+<path d="M48.6458 16.3566L48.7914 15.8132L47.7047 15.5221L47.5591 16.0654L48.6458 16.3566ZM47.0415 17.9972C46.9611 18.2973 47.1392 18.6058 47.4393 18.6862C47.7393 18.7666 48.0478 18.5885 48.1282 18.2884L47.0415 17.9972ZM47.5591 16.0654L47.0415 17.9972L48.1282 18.2884L48.6458 16.3566L47.5591 16.0654Z" fill="black"/>
+<path d="M50.4319 7.51764L50.173 8.48356" stroke="black" stroke-width="1.125" stroke-linecap="square"/>
+<path d="M52.3637 8.03528L48.5 7" stroke="black" stroke-width="1.125" stroke-linecap="round"/>
 <mask id="mask0_1_25" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="47" y="9" width="4" height="7">
 <rect x="48.9483" y="9.19067" width="2" height="6" rx="1" transform="rotate(15 48.9483 9.19067)" fill="white"/>
 </mask>

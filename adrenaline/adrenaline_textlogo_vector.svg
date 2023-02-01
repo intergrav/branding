@@ -1,9 +1,9 @@
 <svg width="54" height="18" viewBox="0 0 54 18" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_4)">
-<rect x="45.0947" y="2.5783" width="3" height="7" rx="1.5" transform="rotate(15 45.0947 2.5783)" fill="white" fill-opacity="0.3" stroke="black"/>
-<path d="M45.0854 10.3404L45.2149 9.85742L44.2489 9.5986L44.1195 10.0816L45.0854 10.3404ZM43.6019 12.0134C43.5304 12.2801 43.6887 12.5543 43.9554 12.6258C44.2222 12.6973 44.4963 12.539 44.5678 12.2722L43.6019 12.0134ZM44.1195 10.0816L43.6019 12.0134L44.5678 12.2722L45.0854 10.3404L44.1195 10.0816Z" fill="black"/>
-<path d="M46.9319 1.51764L46.673 2.48356" stroke="black" stroke-linecap="square"/>
-<path d="M48.8637 2.03528L45 1" stroke="black" stroke-linecap="round"/>
+<rect x="45.0505" y="2.50175" width="3.125" height="7.125" rx="1.5625" transform="rotate(15 45.0505 2.50175)" fill="white" fill-opacity="0.3" stroke="black" stroke-width="1.125"/>
+<path d="M45.1458 10.3566L45.2914 9.81322L44.2047 9.52205L44.0591 10.0654L45.1458 10.3566ZM43.5415 11.9972C43.4611 12.2973 43.6392 12.6058 43.9393 12.6862C44.2393 12.7666 44.5478 12.5885 44.6282 12.2884L43.5415 11.9972ZM44.0591 10.0654L43.5415 11.9972L44.6282 12.2884L45.1458 10.3566L44.0591 10.0654Z" fill="black"/>
+<path d="M46.9319 1.51764L46.673 2.48356" stroke="black" stroke-width="1.125" stroke-linecap="square"/>
+<path d="M48.8637 2.03528L45 1" stroke="black" stroke-width="1.125" stroke-linecap="round"/>
 <mask id="mask0_1_4" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="44" y="3" width="4" height="7">
 <rect x="45.4483" y="3.19067" width="2" height="6" rx="1" transform="rotate(15 45.4483 3.19067)" fill="white"/>
 </mask>
