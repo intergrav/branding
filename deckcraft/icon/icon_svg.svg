@@ -1,6 +1,6 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_5_37)">
-<rect width="16" height="16" rx="2.5" fill="#16181A"/>
+<rect width="16" height="16" rx="2" fill="#16181A"/>
 <g filter="url(#filter0_i_5_37)">
 <g filter="url(#filter1_d_5_37)">
 <mask id="path-2-outside-1_5_37" maskUnits="userSpaceOnUse" x="8" y="2" width="6" height="12" fill="black">
@@ -56,7 +56,7 @@
 <stop offset="1" stop-color="#5599FF"/>
 </linearGradient>
 <clipPath id="clip0_5_37">
-<rect width="16" height="16" rx="2.5" fill="white"/>
+<rect width="16" height="16" rx="2" fill="white"/>
 </clipPath>
 </defs>
 </svg>
