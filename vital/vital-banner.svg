@@ -1,0 +1,18 @@
+<svg width="228" height="68" viewBox="0 0 228 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_13_260)">
+<rect width="228" height="68" fill="black"/>
+<rect x="67.5" y="-0.5" width="151" height="69" stroke="#1A1A1A"/>
+<rect x="9.5" y="-0.5" width="49" height="69" stroke="#1A1A1A"/>
+<rect x="-0.5" y="18.5" width="229" height="31" stroke="#1A1A1A"/>
+<rect x="-0.5" y="9.5" width="229" height="49" stroke="#1A1A1A"/>
+<rect width="48" height="48" transform="translate(10 10)" fill="#8E4EC6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31 19H19V31H25V43H31V49H37V43H43V31H49V19H37V31H31V19Z" fill="#F8EDFC"/>
+<path d="M73.9941 19V37.0029H68.0029V19H73.9941ZM73.9941 42.9941V37.0029H80V42.9941H73.9941ZM80 49V42.9941H86.0059V49H80ZM86.0059 42.9941V37.0029H91.9971V42.9941H86.0059ZM91.9971 37.0029V19H98.0029V37.0029H91.9971ZM104.009 19H110V49H104.009V19ZM146.021 19V25.0059H134.023V49H128.018V25.0059H116.021V19H146.021ZM176.021 30.9971V25.0059H158.018V30.9971H176.021ZM152.026 49V25.0059H158.018V19H176.021V25.0059H182.026V49H176.021V37.0029H158.018V49H152.026ZM194.023 19V42.9941H218.032V49H188.032V19H194.023Z" fill="#F8EDFC"/>
+</g>
+<rect x="0.5" y="0.5" width="227" height="67" stroke="#2E2E2E"/>
+<defs>
+<clipPath id="clip0_13_260">
+<rect width="228" height="68" fill="white"/>
+</clipPath>
+</defs>
+</svg>
